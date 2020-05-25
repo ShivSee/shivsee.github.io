@@ -13,8 +13,8 @@ author: Shiv Seetharaman
 
 navbar-links:
   About Me: "aboutme"
-  Resume: 
-  Projects: 
+# Resume: 
+# Projects: 
 # Resources:
 #  - Beautiful Jekyll: "https://beautifuljekyll.com"
 #  - Learn markdown: "https://www.markdowntutorial.com/"
