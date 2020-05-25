@@ -13,11 +13,11 @@ author: Shiv Seetharaman
 
 navbar-links:
   About Me: "aboutme"
-# Resume: 
+#   Resume: "/_resume/Shiv_Seetharaman_Resume_most_recent.pdf"
 # Projects: 
-# Resources:
-#  - Beautiful Jekyll: "https://beautifuljekyll.com"
-#  - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources:
+   - Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Learn markdown: "https://www.markdowntutorial.com/"
 # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
